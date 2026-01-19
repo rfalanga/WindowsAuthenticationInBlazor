@@ -15,3 +15,9 @@ Note that this repo consists only of Markdown files. Although it wasn't necessar
 [Claude Sonnet 4.5 answer](Claude%20Sonnet%204.5%20Answer%20for%20.NET%20Framework%204.8.md)
 
 [ChatGPT's answer](ChatGPT%20Answer%20for%20.NET%20Framework%204.8.md)
+
+## The two files for how .NET 9 can work with Windows Authentication
+
+[Claude Sonnet 4.5 answer](Asking%20Claude%20Sonnet%204.5%20if%20.NET%209%20can%20work%20with%20Windows%20Authentication.md)
+
+[ChatGPT's answer](Asking%20ChatGPT%20is%20.NET%209%20can%20work%20with%20Windows%20Authentication.md)
