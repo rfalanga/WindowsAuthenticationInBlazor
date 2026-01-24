@@ -21,3 +21,7 @@ Note that this repo consists only of Markdown files. Although it wasn't necessar
 [Claude Sonnet 4.5 answer](Asking%20Claude%20Sonnet%204.5%20if%20.NET%209%20can%20work%20with%20Windows%20Authentication.md)
 
 [ChatGPT's answer](Asking%20ChatGPT%20is%20.NET%209%20can%20work%20with%20Windows%20Authentication.md)
+
+## Microsoft's Learn documentation on Windows Authentication
+
+Microsoft Learn documentation on [configuring Windows Authentication in an Intranet](https://learn.microsoft.com/en-us/aspnet/core/security/authentication/windowsauth?view=aspnetcore-10.0&tabs=visual-studio)
