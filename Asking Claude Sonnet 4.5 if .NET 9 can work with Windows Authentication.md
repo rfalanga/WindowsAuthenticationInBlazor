@@ -113,6 +113,7 @@ When you publish, ensure your `web.config` disables anonymous authentication:
 ```razor
 @page "/secure"
 @attribute [Authorize]
+@using Microsoft.AspNetCore.Authorization
 @using Microsoft.AspNetCore.Components.Authorization
 @inject AuthenticationStateProvider AuthenticationStateProvider
 
@@ -189,5 +190,6 @@ For local testing with IIS Express, update `launchSettings.json`:
 - ✅ **Automatic user identity propagation** - User credentials flow through to your app
 - ✅ **AD Group-based authorization** - Can use Windows groups for role-based access
 - ✅ **Intranet scenarios** - Perfect for corporate environments
+
 
 This configuration ensures **only Windows Authentication** is used, with no fallback to anonymous access or other authentication methods.
